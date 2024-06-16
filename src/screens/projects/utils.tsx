@@ -62,6 +62,6 @@ export const customProjects: Project[] = [
       <SiMongodb key="mongodb" color="#2c913f" className="text-[28px]" />,
     ],
 
-    git: 'https://github.com/enikosoft/portfolio',
+    git: 'https://github.com/00Bhuwan/Portfolio',
   },
 ];
